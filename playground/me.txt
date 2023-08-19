@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prajjwal
-Skills: HTML, CSS, JS, Node.js
-Email: prajjwal0509@gmail.com
-{{/user}}
